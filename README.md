@@ -1,5 +1,4 @@
-CUDAapi.jl
-==========
+# ~CUDAapi.jl~: DEPRECATED, use [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) instead!
 
 *Reusable components for CUDA development.*
 
